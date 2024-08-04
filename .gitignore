@@ -397,5 +397,5 @@ FodyWeavers.xsd
 # JetBrains Rider
 *.sln.iml
 
-.docker/grafana
-.docker/prometheus
+.docker/grafana/
+.docker/prometheus/
